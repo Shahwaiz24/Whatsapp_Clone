@@ -3,7 +3,7 @@ import 'package:whatsapp_clone/Initial_Routes/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
-}
+}      
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
